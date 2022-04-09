@@ -1,7 +1,5 @@
 
 
-<p align="center"><img width="160" src="https://cdn.jsdelivr.net/gh/Leizhenpeng/picbed@master/markdown/pictures/20210307124009.png" alt="Vue logo"></p>
-
 # Tiaoji_Tellme
 
 🏫研究生复试调剂,信息邮件提醒
