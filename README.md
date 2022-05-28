@@ -23,11 +23,7 @@
 
 1. 在user.config中,配置发送和接受邮件信息以及关键词参数
 
-![20210307135510](https://cdn.jsdelivr.net/gh/Leizhenpeng/picbed@master/markdown/pictures/20210307135510.png)
-
 2. 在target.csv中,配置需要监控的学科名称,学校名称,以及网址
-
-![20210307135540](https://cdn.jsdelivr.net/gh/Leizhenpeng/picbed@master/markdown/pictures/20210307135540.png)
 
 3. 双击运行MAILME.exe即可
 
@@ -45,8 +41,6 @@ USERMAIL:填写你的qq邮箱地址
 SMTPPASSWORD: 设置-账户-开启POP3/SMTP服务-点击开启-获取密码
 
 HOST:smtp.qq.com
-
-![20210307132109](https://cdn.jsdelivr.net/gh/Leizhenpeng/picbed@master/markdown/pictures/20210307132109.png)
 
 ### 如何配置收件方参数
 
@@ -74,8 +68,6 @@ fileNamePath = f"{home_path}/data/crawlData/{fileName}.csv"
 
 ## 效果图
 
-![20210307134759](https://cdn.jsdelivr.net/gh/Leizhenpeng/picbed@master/markdown/pictures/20210307134759.png)
-
 每次运行存在三种结果
 
 * 找到新的调剂信息
@@ -83,6 +75,4 @@ fileNamePath = f"{home_path}/data/crawlData/{fileName}.csv"
 * 暂无调剂信息
 
 其中只有在`找到新的调剂信息`时,才会对设定邮件进行提醒.
-
-![20210307130347](https://cdn.jsdelivr.net/gh/Leizhenpeng/picbed@master/markdown/pictures/20210307130347.png)
 
